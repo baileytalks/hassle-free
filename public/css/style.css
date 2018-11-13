@@ -86,7 +86,7 @@ video {
     border: 0;
     font-size: 100%;
     font: inherit;
-    vertical-align: baseline
+    vertical-align: baseline;
 }
 
 aside,
@@ -924,7 +924,9 @@ p {
 }
 
 .gallery__img--2 {
-    background: #75ac8b
+    background: #ffffff;
+    height: 400px;
+    width: 400px;
 }
 
 .gallery__img--2:after {
@@ -1296,18 +1298,20 @@ p {
 /* Added new stuff below */
 
 .button {
-  background-color: #d10869;
+  background-color: #F28F3B;
   color: white;
-  border: 2px solid #d10869;
+  border: 2px solid #F28F3B;
   width: 50%;
   text-decoration: none;
   padding: 15px 32px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
+  font-size: 1.5rem;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
+  font-family: 'Open Sans', sans-serif;
+  border-radius: 4px;
 }
 
 .button:hover {

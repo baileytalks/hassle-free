@@ -156,7 +156,7 @@ table {
 
 .container {
     margin: 0 auto;
-    padding: 3rem 1rem;
+    padding: 4rem 1rem;
     width: 100%;
     max-width: 1300px
 }
@@ -1200,27 +1200,27 @@ p {
 }
 
 .recognition__figure--insta:hover {
-    border-color: #d10869
+    border-color: #588b8b
 }
 
 .recognition__figure--insta:hover em {
-    color: #d10869
+    color: #588b8b
 }
 
 .recognition__figure--insta:hover path {
-    fill: #d10869
+    fill: #588b8b
 }
 
 .recognition__figure--warriors:hover {
-    border-color: #ffc72d
+    border-color: #ffd5c2
 }
 
 .recognition__figure--warriors:hover em {
-    color: #ffc72d
+    color: #ffd5c2
 }
 
 .recognition__figure--warriors:hover path {
-    fill: #ffc72d
+    fill: #ffd5c2
 }
 
 .recognition__statement p {
@@ -1248,7 +1248,7 @@ p {
 }
 
 .instagram-follow-button {
-    background: #d10869
+    background: #588b8b
 }
 
 .instagram-follow-button:hover {
@@ -1257,7 +1257,7 @@ p {
 
 @media (hover:none) {
     .instagram-follow-button {
-        background: #d10869!important
+        background: #588b8b!important
     }
 }
 
